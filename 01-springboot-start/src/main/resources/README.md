@@ -1,0 +1,1 @@
+springboot项目的简单创建和启动，无需任何配置文件即可启动一个springboot项目；认识 @SpringBootApplication
